@@ -77,74 +77,78 @@
 }
 
 .leftpic {
-    height: 315px;
-    width: 560px;
-    padding-left: 100px;
-    padding-top: 100px;
+  height: 315px;
+  width: 560px;
+  padding-left: 100px;
+  padding-top: 100px;
 }
 
 .right {
   flex: 1;
   height: 700px;
   background-color: #ffffff;
-  color: #EE562F;
+  color: #ee562f;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-    font-weight: 400;
-    font-size: 40px;
-    padding-top: 200px;
-    padding-left: 120px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
+  font-weight: 400;
+  font-size: 40px;
+  padding-top: 200px;
+  padding-left: 120px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .p2 {
-    font-size: 24px;
-    padding-top: 50px;
+  font-size: 24px;
+  padding-top: 50px;
 }
 
 .div3 {
-    height: 900px;
-    width: 100%;
-    background-image: url("./picparle/parlediv3.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+  height: 900px;
+  width: 100%;
+  background-image: url("./picparle/parlediv3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .footer {
-    height: 200px;
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .box {
-    padding: 50px;
-    height: 200px;
-    width: 100%;
+  padding: 50px;
+  height: 200px;
+  width: 100%;
 }
 
-.footer-p1,.footer-links{
-    padding-top: 10px;
+.footer-p1,
+.footer-links {
+  padding-top: 10px;
 }
 
-.footer-link,.footer-p1,.footer-links {
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+.footer-link,
+.footer-p1,
+.footer-links {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
+
 .footer-link {
-    padding-top: 10px;
-    padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .footer-link1 {
-    padding-top: 0px;
-    padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
 }
 
 .footer-logo {
-    padding-top: 5px;
-    height: 35px;
-    width: 140px;
+  padding-top: 5px;
+  height: 35px;
+  width: 140px;
 }
